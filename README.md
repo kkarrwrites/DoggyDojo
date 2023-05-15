@@ -32,6 +32,8 @@ Doggy Dojo is MERN-stack single-page web application (PWA) that allows dog owner
 
 ## Screenshots
 
+https://github.com/kkarrwrites/DoggyDojo/assets/57644505/9803a129-0581-46d5-855a-6a07c00f0010
+
 ![Screenshot](./client/src/assets/screenshot01.jpg)
 ![Screenshot](./client/src/assets/screenshot02.jpg)
 ![Screenshot](./client/src/assets/screenshot03.jpg)
